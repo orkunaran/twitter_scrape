@@ -1,0 +1,6 @@
+[my section] # GIVE YOUR FILE A NAME
+access_token : #ENTER WITHOUT '' 
+access_token_secret : #ANY TEXT IS ACCEPTED AS STRING
+bearer_token = 
+api_key = 
+api_secret = 
